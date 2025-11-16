@@ -11,12 +11,12 @@ const Header = () => {
 					<h1
 						className="text-2xl font-semibold"
 						aria-label="App Name">
-						NSP App
+						NEXT.JS COUNTER
 					</h1>
 				</Link>
 
 				<nav className="flex items-center gap-4">
-					<Link href={"/"}>Home</Link>
+					<Link href={"/"}>Basic</Link>
 
 					<ThemeToggleButton />
 				</nav>
